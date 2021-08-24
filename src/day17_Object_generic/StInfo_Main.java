@@ -33,6 +33,7 @@ public class StInfo_Main {
 					StInfo ss = arr.get(i);
 					System.out.println("이름 : " + ss.getName());
 					System.out.println("나이 : " + ss.getAge());
+					System.out.println(arr.get(i));
 				}
 				break;
 			}
